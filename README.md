@@ -3,7 +3,7 @@ https://lucasferreira-newsite.netlify.app/
 
 <h3>Este é um site simples criado com HTML e CSS para demonstrar o efeito parallax e algumas animações. O site é adequado para iniciantes que desejam aprender como implementar esses efeitos em seus projetos.</h3>
 
-# Estrutura do Projet:
+<h1>Estrutura do Projet:<h1>
 
 O projeto é composto por:
 
@@ -13,7 +13,7 @@ javahome.js: Este arquivo adiciona um evento de clique a um ícone de menu.<br>
 font-awesome = Icones do footer e cabeçalho.<br>
 animista.net = Animação do Css
 
-#Funcionalidades
+<h1>Funcionalidades<h1>
 
-Efeito Parallax: O site apresenta um efeito parallax suave ao rolar para baixo.
+Efeito Parallax: O site apresenta um efeito parallax suave ao rolar para baixo.<br>
 Animações CSS: Partes do site são animadas usando propriedades CSS como animation, transform e transition.
