@@ -16,4 +16,4 @@ animista.net = Animação do Css
 #Funcionalidades
 
 Efeito Parallax: O site apresenta um efeito parallax suave ao rolar para baixo.
-Animações CSS: Várias partes do site são animadas usando propriedades CSS como animation, transform e transition.
+Animações CSS: Partes do site são animadas usando propriedades CSS como animation, transform e transition.
