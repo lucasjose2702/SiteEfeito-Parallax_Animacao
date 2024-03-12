@@ -7,10 +7,10 @@ https://lucasferreira-newsite.netlify.app/
 
 O projeto é composto por:
 
-index.html: Este é o arquivo HTML principal que contém a estrutura do site como cabeçalho e rodápe.
-styles.css: Este arquivo CSS contém os estilos para estilizar o site e implementar os efeitos parallax e animações.
-javahome.js: Este arquivo adiciona um evento de clique a um ícone de menu. 
-font-awesome = Icones do footer e cabeçalho.
+index.html: Este é o arquivo HTML principal que contém a estrutura do site como cabeçalho e rodápe.<br>
+styles.css: Este arquivo CSS contém os estilos para estilizar o site e implementar os efeitos parallax e animações.<br>
+javahome.js: Este arquivo adiciona um evento de clique a um ícone de menu.<br> 
+font-awesome = Icones do footer e cabeçalho.<br>
 animista.net = Animação do Css
 
 #Funcionalidades
